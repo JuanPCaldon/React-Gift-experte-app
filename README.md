@@ -1,2 +1,2 @@
-# React-fernando-herrera
+# React
 aprendisaje de react
